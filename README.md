@@ -18,9 +18,19 @@ Interfaz disponible en Español · English · 简体中文
 
 macOS 13 o superior con Apple Silicon.
 
-HAZ es gratuita y de código abierto. Al no estar notarizada por Apple, macOS puede solicitar una autorización adicional al abrirla.
+HAZ es gratuita y de código abierto.
 
-La ampliación requiere permiso de grabación de pantalla.
+### Antes de abrir HAZ
+
+Al no estar notarizada por Apple, macOS puede mostrar una advertencia de seguridad.
+
+[▶ Ver guía de instalación](https://github.com/henriq-design/HAZ/releases/download/v1.0.0/HAZ-antes-de-abrir.mp4) · 36 segundos, sin sonido.
+
+Si confías en la descarga, puedes autorizar su apertura desde Ajustes del Sistema > Privacidad y seguridad.
+
+[Más información sobre esta advertencia](https://support.apple.com/es-es/102445).
+
+La ampliación requiere permiso de grabación de pantalla. HAZ no captura audio.
 
 ## Licencia
 
