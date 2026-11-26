@@ -1,0 +1,1961 @@
+{
+  "sourceLanguage": "es",
+  "strings": {
+    "brand.claim": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Foco donde importa."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Focus where it matters."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "聚焦重要之处。"
+          }
+        }
+      }
+    },
+    "hero.current": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Amplía interfaces y dirige la atención sin perder el contexto."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnify interfaces and guide attention without losing context."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放大界面，突出重点，同时保留上下文。"
+          }
+        }
+      }
+    },
+    "hero.future": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Señala, amplía y revisa interfaces sin perder el contexto."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Highlight, magnify and review interfaces without losing context."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "突出重点、放大并查看界面，同时保留上下文。"
+          }
+        }
+      }
+    },
+    "download": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descargar para macOS"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Download for macOS"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载 macOS 版"
+          }
+        }
+      }
+    },
+    "magnifier.enable": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activar lupa"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turn On Magnifier"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "开启放大镜"
+          }
+        }
+      }
+    },
+    "magnifier.disable": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desactivar lupa"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turn Off Magnifier"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭放大镜"
+          }
+        }
+      }
+    },
+    "activation.hold": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantener"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hold"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按住启用"
+          }
+        }
+      }
+    },
+    "activation.toggle": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alternar"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toggle"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按下切换"
+          }
+        }
+      }
+    },
+    "zoom.x1": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lupa x1 · Suave"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnifier x1 · Subtle"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放大镜 x1 · 轻度"
+          }
+        }
+      }
+    },
+    "zoom.x2": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lupa x2 · Medio"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnifier x2 · Medium"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放大镜 x2 · 中度"
+          }
+        }
+      }
+    },
+    "zoom.x3": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lupa x3 · Máximo"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnifier x3 · Maximum"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放大镜 x3 · 最大"
+          }
+        }
+      }
+    },
+    "menu.size": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tamaño"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Size"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "大小"
+          }
+        }
+      }
+    },
+    "menu.dimming": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oscuridad"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dimming"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "调暗程度"
+          }
+        }
+      }
+    },
+    "menu.displays": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pantallas"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Displays"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "显示器"
+          }
+        }
+      }
+    },
+    "menu.permission": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Revisar permiso de pantalla para Lupa/Área…"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Review Screen Recording for Magnifier/Area…"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "检查放大镜/区域的屏幕录制权限…"
+          }
+        }
+      }
+    },
+    "menu.quit": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Salir de HAZ"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quit HAZ"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "退出 HAZ"
+          }
+        }
+      }
+    },
+    "tool.spotlight": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Foco"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Spotlight"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "聚焦"
+          }
+        }
+      }
+    },
+    "tool.magnifier": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lupa"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnifier"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放大镜"
+          }
+        }
+      }
+    },
+    "tool.area": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Área"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Area"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "区域"
+          }
+        }
+      }
+    },
+    "tool.pin": {
+      "comment": "Propuesta de localización; revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fijar"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pin"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "固定"
+          }
+        }
+      }
+    },
+    "menu.zoom": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zoom"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zoom"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "缩放"
+          }
+        }
+      }
+    },
+    "menu.activation": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activación"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activation"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "启用方式"
+          }
+        }
+      }
+    },
+    "menu.shortcut": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lupa: ⌃⌥F"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnifier: ⌃⌥F"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放大镜：⌃⌥F"
+          }
+        }
+      }
+    },
+    "menu.permission.granted": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lupa/Área x2/x3: permiso de pantalla concedido"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnifier/Area x2/x3: Screen Recording allowed"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放大镜/区域 x2/x3：已允许屏幕录制"
+          }
+        }
+      }
+    },
+    "menu.permission.captureReview": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Revisar captura de Lupa/Área y permiso…"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Review Magnifier/Area capture and access…"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "检查放大镜/区域捕获与权限…"
+          }
+        }
+      }
+    },
+    "menu.clickThroughInfo": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Área x1: clics disponibles fuera de Guías"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Area x1: clicks pass through outside Guides"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "区域 x1：辅助线之外可正常点击"
+          }
+        }
+      }
+    },
+    "menu.zoomShortcutInfo": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Niveles: ⌃⌥1 / ⌃⌥2 / ⌃⌥3"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Levels: ⌃⌥1 / ⌃⌥2 / ⌃⌥3"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "级别：⌃⌥1 / ⌃⌥2 / ⌃⌥3"
+          }
+        }
+      }
+    },
+    "menu.escapeInfo": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esc cierra la herramienta activa"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esc closes the active tool"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按 Esc 关闭当前工具"
+          }
+        }
+      }
+    },
+    "size.small": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pequeño"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Small"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小"
+          }
+        }
+      }
+    },
+    "size.medium": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Medio"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Medium"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中"
+          }
+        }
+      }
+    },
+    "size.large": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grande"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Large"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "大"
+          }
+        }
+      }
+    },
+    "dimming.soft": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Suave · 55%"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Soft · 55%"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "轻度 · 55%"
+          }
+        }
+      }
+    },
+    "dimming.medium": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Media · 75%"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Medium · 75%"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中度 · 75%"
+          }
+        }
+      }
+    },
+    "dimming.high": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alta · 88%"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "High · 88%"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "高 · 88%"
+          }
+        }
+      }
+    },
+    "displays.current": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Solo pantalla del cursor"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cursor display only"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仅光标所在显示器"
+          }
+        }
+      }
+    },
+    "displays.all": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oscurecer todas"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dim all displays"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "调暗所有显示器"
+          }
+        }
+      }
+    },
+    "permission.required.title": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lupa y Área x2/x3 necesitan Grabación de pantalla"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnifier and Area x2/x3 need Screen Recording"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放大镜和区域 x2/x3 需要屏幕录制权限"
+          }
+        }
+      }
+    },
+    "permission.required.body": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ solo necesita capturar la pantalla al usar Lupa o ampliar un Área a x2/x3. Concede acceso en Privacidad y seguridad > Grabación de pantalla y audio del sistema. Área x1 y sus Guías seguirán funcionando sin este permiso."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ only needs to capture the screen when using Magnifier or enlarging an Area to x2/x3. Allow access in Privacy & Security > Screen & System Audio Recording. Area x1 and its Guides will keep working without this permission."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "只有使用放大镜或将区域放大到 x2/x3 时，HAZ 才需要捕获屏幕。请在“隐私与安全性 > 屏幕与系统音频录制”中允许访问。区域 x1 及其辅助线无需此权限仍可使用。"
+          }
+        }
+      }
+    },
+    "permission.captureFailed.title": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ no puede capturar esta pantalla"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ can’t capture this display"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ 无法捕获此显示器"
+          }
+        }
+      }
+    },
+    "permission.captureFailed.grantedBody": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS indica que HAZ tiene permiso, pero ScreenCaptureKit no ha podido iniciar la captura necesaria para Lupa o Área x2/x3. Usa «Revisar captura y permiso…» para habilitar un nuevo intento o cierra y vuelve a abrir HAZ."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS says HAZ has permission, but ScreenCaptureKit could not start the capture required by Magnifier or Area x2/x3. Use “Review capture and access…” to enable another attempt, or quit and reopen HAZ."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS 显示 HAZ 已获授权，但 ScreenCaptureKit 无法启动放大镜或区域 x2/x3 所需的捕获。请使用“检查捕获与权限…”重新尝试，或退出并重新打开 HAZ。"
+          }
+        }
+      }
+    },
+    "permission.captureFailed.deniedBody": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS está rechazando Grabación de pantalla para esta compilación. Lupa y Área x2/x3 no podrán ampliar contenido hasta que habilites HAZ en Ajustes y vuelvas a abrir la app."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS is denying Screen Recording for this build. Magnifier and Area x2/x3 cannot enlarge content until you allow HAZ in Settings and reopen the app."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS 正在拒绝此版本的屏幕录制权限。在“设置”中允许 HAZ 并重新打开应用之前，放大镜和区域 x2/x3 无法放大内容。"
+          }
+        }
+      }
+    },
+    "permission.granted.title": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permiso concedido"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Access granted"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "权限已授予"
+          }
+        }
+      }
+    },
+    "permission.granted.body": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ tiene acceso a Grabación de pantalla. Ya puedes usar Lupa y Área x2/x3."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ has Screen Recording access. You can now use Magnifier and Area x2/x3."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ 已获得屏幕录制权限。现在可以使用放大镜和区域 x2/x3。"
+          }
+        }
+      }
+    },
+    "permission.openSettings": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir Ajustes"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open Settings"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开设置"
+          }
+        }
+      }
+    },
+    "common.close": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cerrar"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Close"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭"
+          }
+        }
+      }
+    },
+    "common.ok": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "好"
+          }
+        }
+      }
+    },
+    "status.active": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ · lupa activa · ⌃⌥F"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ · magnifier active · ⌃⌥F"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ · 放大镜已启用 · ⌃⌥F"
+          }
+        }
+      }
+    },
+    "status.inactive": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ · lista · ⌃⌥F / ⌃⌥A"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ · ready · ⌃⌥F / ⌃⌥A"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ · 就绪 · ⌃⌥F / ⌃⌥A"
+          }
+        }
+      }
+    },
+    "area.enable": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seleccionar área"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Select area"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择区域"
+          }
+        }
+      }
+    },
+    "area.disable": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desactivar área"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turn off area"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭区域"
+          }
+        }
+      }
+    },
+    "menu.areaShortcut": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Área: ⌃⌥A"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Area: ⌃⌥A"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "区域：⌃⌥A"
+          }
+        }
+      }
+    },
+    "status.area": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ · área activa · ⌃⌥A"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ · area active · ⌃⌥A"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ · 区域已启用 · ⌃⌥A"
+          }
+        }
+      }
+    },
+    "area.hud.x1": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Área · x1"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Area · x1"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "区域 · x1"
+          }
+        }
+      }
+    },
+    "area.hud.x2": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Área · x2"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Area · x2"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "区域 · x2"
+          }
+        }
+      }
+    },
+    "area.hud.x3": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Área · x3"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Area · x3"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "区域 · x3"
+          }
+        }
+      }
+    },
+    "area.zoom.x1": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Área x1 · 1:1"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Area x1 · 1:1"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "区域 x1 · 1:1"
+          }
+        }
+      }
+    },
+    "area.zoom.x2": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Área x2 · Medio"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Area x2 · Medium"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "区域 x2 · 中"
+          }
+        }
+      }
+    },
+    "area.zoom.x3": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Área x3 · Máximo"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Area x3 · Maximum"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "区域 x3 · 最大"
+          }
+        }
+      }
+    },
+    "status.area.x2": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ · Área x2 · ⌃⌥2"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ · Area x2 · ⌃⌥2"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ · 区域 x2 · ⌃⌥2"
+          }
+        }
+      }
+    },
+    "status.area.x3": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ · Área x3 · ⌃⌥3"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ · Area x3 · ⌃⌥3"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ · 区域 x3 · ⌃⌥3"
+          }
+        }
+      }
+    },
+    "menu.settings": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajustes…"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings…"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设置…"
+          }
+        }
+      }
+    },
+    "settings.title": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajustes"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设置"
+          }
+        }
+      }
+    },
+    "settings.section.magnifier": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lupa"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnifier"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放大镜"
+          }
+        }
+      }
+    },
+    "settings.section.shared": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lupa y Área"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnifier and Area"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放大镜与区域"
+          }
+        }
+      }
+    },
+    "settings.zoomLevel": {
+      "comment": "Interfaz HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nivel"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Level"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "级别"
+          }
+        }
+      }
+    },
+    "onboarding.windowTitle": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bienvenido a HAZ"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Welcome to HAZ"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "欢迎使用 HAZ"
+          }
+        }
+      }
+    },
+    "onboarding.step1": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 de 2"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 of 2"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 / 2"
+          }
+        }
+      }
+    },
+    "onboarding.step2": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2 de 2"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2 of 2"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2 / 2"
+          }
+        }
+      }
+    },
+    "onboarding.intro.title": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Foco donde importa."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Focus where it matters."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "聚焦重要之处。"
+          }
+        }
+      }
+    },
+    "onboarding.intro.body": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ te ayuda a dirigir y mantener la atención sobre interfaces sin modificarlas."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ helps you direct and maintain attention on interfaces without changing them."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAZ 帮助你在不修改界面的情况下引导和检查视觉注意力。"
+          }
+        }
+      }
+    },
+    "onboarding.magnifier.title": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lupa"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnifier"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放大镜"
+          }
+        }
+      }
+    },
+    "onboarding.magnifier.body": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Amplía lo que estás señalando sin perder el contexto."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnify what you are pointing at without losing context."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放大你指向的内容，同时保留上下文。"
+          }
+        }
+      }
+    },
+    "onboarding.area.title": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Área"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Area"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "区域"
+          }
+        }
+      }
+    },
+    "onboarding.area.body": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aísla una región para revisarla con calma."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Isolate a region so you can review it calmly."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "隔离一个区域，便于从容检查。"
+          }
+        }
+      }
+    },
+    "onboarding.skip": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Omitir"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Skip"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "跳过"
+          }
+        }
+      }
+    },
+    "onboarding.continue": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continuar"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continue"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "继续"
+          }
+        }
+      }
+    },
+    "onboarding.permission.title": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Amplía sin perder contexto."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnify without losing context."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放大而不丢失上下文。"
+          }
+        }
+      }
+    },
+    "onboarding.permission.body": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lupa y Área x2/x3 necesitan Grabación de pantalla para ampliar contenido de otras apps. HAZ solo captura mientras estas herramientas están activas. Área x1 y Guías funcionan sin este permiso."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnifier and Area x2/x3 need Screen Recording to magnify content from other apps. HAZ only captures while those tools are active. Area x1 and Guides work without this permission."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放大镜和区域 x2/x3 需要“屏幕录制”权限才能放大其他应用的内容。HAZ 只会在这些工具启用时进行捕获。区域 x1 和参考线无需此权限即可使用。"
+          }
+        }
+      }
+    },
+    "onboarding.permission.granted": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Acceso a Grabación de pantalla concedido"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Screen Recording access granted"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已授予屏幕录制权限"
+          }
+        }
+      }
+    },
+    "onboarding.permission.pending": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Completa el acceso en Ajustes del Sistema. HAZ puede seguir usándose con Área x1 y Guías."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Complete access in System Settings. You can keep using HAZ with Area x1 and Guides."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请在系统设置中完成授权。你仍可使用 HAZ 的区域 x1 和参考线。"
+          }
+        }
+      }
+    },
+    "onboarding.permission.request": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permitir Grabación de pantalla"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Allow Screen Recording"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "允许屏幕录制"
+          }
+        }
+      }
+    },
+    "onboarding.permission.openSettings": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir Ajustes del Sistema"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open System Settings"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开系统设置"
+          }
+        }
+      }
+    },
+    "onboarding.permission.withoutAccess": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empezar sin permiso"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start without access"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无权限继续"
+          }
+        }
+      }
+    },
+    "onboarding.notNow": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ahora no"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not now"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂不"
+          }
+        }
+      }
+    },
+    "onboarding.start": {
+      "comment": "Onboarding HAZ. Revisar zh-Hans antes de publicar.",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empezar"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "开始"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
